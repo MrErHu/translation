@@ -35,7 +35,7 @@
 [Custom Navigators]()
  　　
 ## Advanced Guides
-[Redux Integration]()
+[Redux Integration](https://github.com/MrErHu/translation/blob/master/doc/react-navigation/doc/Redux-Integration.md)
 
 [Web Integration]()
 

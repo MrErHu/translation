@@ -8,7 +8,7 @@
 
  　　 本项目为本人翻译关于前端的文档、博客等资料，如果喜欢可以点击Start支持一下。
 
- 　　 目录:
+目录:
 
 [react-navigation中文文档](https://github.com/MrErHu/translation/blob/master/doc/react-navigation/README.md)
 

@@ -10,7 +10,7 @@
 
 ## Getting Started
 
-[Hello Mobile Navigation]()
+[Hello Mobile Navigation](https://github.com/MrErHu/translation/blob/master/doc/react-navigation/doc/Hello-Mobile-Navigation.md)
 
 [Nesting Navigators]()
 

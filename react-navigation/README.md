@@ -10,56 +10,57 @@
 
 ## Getting Started
 
-[Hello Mobile Navigation](https://github.com/MrErHu/translation/blob/master/doc/react-navigation/doc/Hello-Mobile-Navigation.md)
+[Hello Mobile Navigation](https://github.com/MrErHu/translation/blob/master/react-navigation/doc/Hello-Mobile-Navigation.md)
 
-[Nesting Navigators]()
+Nesting Navigators
 
-[Configuring Headers]()
+[Configuring Headers](https://github.com/MrErHu/translation/blob/master/react-navigation/doc/Configuring-Headers.md)
 
 ## Navigators
 
-[Intro to Navigators]()
+Intro to Navigators
 
-[StackNavigator]()
+StackNavigator
 
-[TabNavigator]()
+TabNavigator
 
-[DrawerNavigator]()
+DrawerNavigator
 
-[The Navigation Prop]()
+The Navigation Prop
 
-[Navigation Actions]()
+Navigation Actions
 
-[Screen Nav Options]()
+Screen Nav Options
 
-[Custom Navigators]()
+Custom Navigators
  　　
 ## Advanced Guides
-[Redux Integration](https://github.com/MrErHu/translation/blob/master/doc/react-navigation/doc/Redux-Integration.md)
 
-[Web Integration]()
+[Redux Integration](https://github.com/MrErHu/translation/blob/master/react-navigation/doc/Redux-Integration.md)
 
-[Deep Linking]()
+Web Integration
 
-[Screen Tracking]()
+Deep Linking
 
-[Screen Tracking]()
+Screen Tracking
+
+Screen Tracking
 
 ## Routers
 
-[Routers]()
+Routers
 
-[Custom Router API]()
+Custom Router API
 
-[StackRouter]()
+StackRouter
 
-[TabRouter]()
+TabRouter
 
 ## Views
 
-[Navigation Views]()
+Navigation Views
 
-[Transitioner]()
+Transitioner
 
 ***
 

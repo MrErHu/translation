@@ -10,7 +10,7 @@
 
 目录:
 
-[react-navigation中文文档](https://github.com/MrErHu/translation/blob/master/doc/react-navigation/README.md)
+[react-navigation中文文档](https://github.com/MrErHu/translation/tree/master/react-navigation)
 
 
 ***

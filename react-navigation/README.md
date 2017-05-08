@@ -18,7 +18,7 @@ Nesting Navigators
 
 ## Navigators
 
-Intro to Navigators
+[Intro to Navigators](https://github.com/MrErHu/translation/blob/master/react-navigation/doc/Intro-to-Navigators.md)
 
 StackNavigator
 
